@@ -1,7 +1,15 @@
-### Hi there 👋
+# 23.08 : 3months
 
-<!--
-**aybbe911129/aybbe911129** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=aybbe911129)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Entrepreneur+Engineer)](https://git.io/typing-svg)
+
+
+|Project|Period|Related|Learn|Main|
+|:---|:---:|:---:|:---:|---:|
+|goorm kubernetes|23.04~23.08|k8s, docker, linux, aws, githubactions, argoCD, grafana|FE(react)|CH(cheerleading)|
+
+
 
 Here are some ideas to get you started:
 
@@ -13,4 +21,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
